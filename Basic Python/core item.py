@@ -4,7 +4,7 @@ def local_scope():
     def myfunc():
         x = 300
         print("Inside myfunc:", x)
-    myfunc()
+    myfunc()  
     
 
 #Function Inside Function
